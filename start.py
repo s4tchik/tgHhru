@@ -6,8 +6,8 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils import executor
 
-TOKEN = "7597499330:AAFV_qzG1EpcW6cxN-MY2ZJwcwVQWJFL9GQ"
-ADMIN_ID = 1089550963
+TOKEN = "1"
+ADMIN_ID = 1
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
