@@ -1,6 +1,3 @@
-# Создание README.md для Telegram-магазина
-
-cat <<EOF > README.md
 # Telegram-магазин с админ-панелью
 
 ## Описание проекта
